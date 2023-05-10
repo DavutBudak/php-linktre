@@ -13,7 +13,7 @@ if (@$_SESSION["login"]) {
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-<title>Admin Giriş - Clicksus</title>
+<title>Admin Giriş</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
