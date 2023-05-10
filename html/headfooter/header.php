@@ -2,7 +2,7 @@
 // Slug değerini al
 @$slug = $_GET["slug"];
 
-if($slug == NULL){$slug ="clicksus";}
+if($slug == NULL){$slug ="linktre";}
 
 // slug değerine göre frontbilgi tablosundaki ilgili verileri çek
 $sql = "SELECT frontbilgi.*, uyegiris.slug FROM frontbilgi  JOIN uyegiris ON uyegiris.id = frontbilgi.firma_id   WHERE uyegiris.slug = :slug";
