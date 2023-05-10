@@ -1,7 +1,7 @@
 <?php
 
 $redirect = [
-    '/ornek' => 'ornek',
+    '/ornek' => 'ornek2',
   
     ];
     
@@ -9,7 +9,7 @@ $redirect = [
     if(isset($_SERVER['SCRIPT_URL']) && isset($redirect[$_SERVER['SCRIPT_URL']])){
         
         
-        header('Location: https://linktreclicksus.com/'.$redirect[$_SERVER['SCRIPT_URL']]);
+        header('Location: https://domain.com/'.$redirect[$_SERVER['SCRIPT_URL']]);
         
         
     }
