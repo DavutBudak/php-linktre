@@ -1,2 +1,1 @@
-[10-May-2023 09:49:00 UTC] PHP Notice:  Undefined index: login in /home/davutclicksuslab/public_html/linktreclicksus/admin/index.php on line 6
-[10-May-2023 09:49:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/davutclicksuslab/public_html/linktreclicksus/admin/giris.php on line 59
+
