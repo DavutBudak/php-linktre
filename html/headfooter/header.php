@@ -1,4 +1,4 @@
-<?php $urlfoto = 'https://'.$_SERVER['SERVER_NAME'].'/linktreclicksus/admin/';
+<?php $urlfoto = 'https://'.$_SERVER['SERVER_NAME'].'/linktre/admin/';
 // Slug değerini al
 @$slug = $_GET["slug"];
 
