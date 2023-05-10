@@ -23,7 +23,7 @@ $resultgiris = $stmtgiris->fetch(PDO::FETCH_OBJ);
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CLİCKS'US</title>
+    <title>Linktre</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="image/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="image/apple-icon-60x60.png">
