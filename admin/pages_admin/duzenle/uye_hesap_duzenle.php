@@ -797,7 +797,7 @@ $stmtfull->execute();
                 if($bilgi['hesapdurum'] == 0) {$durumrenk = "color:red;";} else{ $durumrenk = "color:green;";}
                 ?>
                                     <tr>
-                                        <td><span class="social_icon"> <img src="<?php echo $url;?>/linktreclicksus/admin/<?php echo $bilgi['image_file']; ?>" alt=""> </span>
+                                        <td><span class="social_icon"> <img src="<?php echo $url;?>/linktrec/admin/<?php echo $bilgi['image_file']; ?>" alt=""> </span>
                                         </td>
                                         <td><span class="list-name"><?php echo $bilgi['hesapadi']; ?></span>
                                         </td>
